@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\obj\Debug\OOPProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\obj\Debug\OOPProject.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+c:\users\user\documents\visual studio 2015\Projects\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\obj\Debug\OOPProject.csprojAssemblyReference.cache
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\obj\Debug\OOPProject.Properties.Resources.resources
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.GenerateResource.cache
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.CoreCompileInputs.cache
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+C:\Users\kaang\Desktop\projelerim\c#oyun\antiair\G151210096\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
